@@ -1,0 +1,49 @@
+
+#formlog {
+    border-radius: 20px;
+    margin-top: 110px ;
+    width: 40%;
+    background-color: #FFF6EA;
+    padding: 30px;
+    position: absolute; 
+    border: 2px solid #896432;
+    left: 23%; 
+    top: 0; 
+}
+.imag1 {
+    position: absolute;
+    top: 0%;
+   right: 0%;
+   width: 75%;
+   height: 100%;
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+  }
+.logo {
+    width: 260px;
+    height: 210PX;
+  }
+
+#btlog {
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    background: linear-gradient(90deg, #896432 0%, #FFF6EA , #896432
+     100%);
+    color:  #896432;
+}
+.inpute {
+    color: #896432;
+    box-shadow: none;
+    border: none;
+    background-color: #FFF6EA;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+h4 {
+    font-size: 2rem ;
+    font-weight: 700;
+}
